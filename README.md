@@ -8,27 +8,33 @@
 
 ### Essential
 
-- React Roter Dom - Navigation
+- div, p, image, input, button - Elements
 
-- RTK Query - Network Call
+- React - Library (Component, Data, Props, State, Effect, Condition, Loop, Events)
 
-- Redux - State
+- Tailwind - Styling
 
 - React Hook Form - Form
 
 - Zod - Validation
 
-- Tailwind & Shadcn - UI
+- RTK Query - Network Call
+
+- Redux - State
+
+- React Roter Dom - Navigation
 
 ### Extra
 
-- Lucide & React Icons - Icons 
+- Lucide & React Icons - Icons
 
 - Recharts - Charts
 
 - Tanstack Table - Table
 
 - Quill - RTE
+
+- Leaflet - Maps
 
 - React Dropzone - Drop Area
 
@@ -50,10 +56,20 @@
 
 - Bruno - API
 
-# Common
+# Others
 
 - Authentication(Credential, OAuth)
 
 - Authorization
 
 - Payment
+
+- Permission
+
+- Theme
+
+- Favicon, App Icon
+
+- Loader, Splash
+
+- Notifications
