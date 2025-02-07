@@ -62,9 +62,11 @@
 
 - Authorization
 
+- Permission
+
 - Payment
 
-- Permission
+- Search/Filter/Sort/Pagination
 
 - Theme
 
