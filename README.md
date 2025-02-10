@@ -62,9 +62,9 @@
 
 - Authorization
 
-- Permission
-
 - Payment
+
+- Notifications
 
 - Category/Tag
 
@@ -75,5 +75,3 @@
 - Favicon, App Icon
 
 - Loader, Splash
-
-- Notifications
