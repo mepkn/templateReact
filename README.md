@@ -66,6 +66,8 @@
 
 - Payment
 
+- Category/Tag
+
 - Search/Filter/Sort/Pagination
 
 - Theme
