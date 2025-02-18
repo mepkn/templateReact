@@ -54,8 +54,6 @@
 
 - Neon - DB
 
-- Bruno - API
-
 # Others
 
 - Authentication(Credential, OAuth)
