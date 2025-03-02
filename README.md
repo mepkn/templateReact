@@ -64,9 +64,19 @@
 
 - Notifications
 
+- Real Time Communication
+
+- Monitoring
+
+- Email
+
+- Background Task
+
 - Category/Tag
 
-- Search/Filter/Sort/Pagination
+- Search/Filter/Sort
+
+- Pagination
 
 - Theme
 
