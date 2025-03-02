@@ -40,8 +40,6 @@
 
 - DnDkit - Drag & Drop
 
-- React i18next - i18n
-
 - Framer Motion - Animation
 
 - React Three Fiber - 3D
@@ -79,6 +77,8 @@
 - Pagination
 
 - Theme
+
+- i18n
 
 - Favicon, App Icon
 
